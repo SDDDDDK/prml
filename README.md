@@ -20,7 +20,7 @@
 
 - [x] `HistogramDensityEstimation.ipynb`：ヒストグラム密度推定
   - ヒストグラム密度推定はnotebookで完結しているため、`nonparametric_methods.jl`内の実装はない。
-- [x] `KernelDensityEstimation.ipynb`：カーネル密度推定
+- [ ] `KernelDensityEstimation.ipynb`：カーネル密度推定
 - [x] `KNearestNeiboursRegression.ipynb`：K近傍法（回帰）
 - [x] `KNearestNeiboursClassification.ipynb`：K近傍法（分類）
 
